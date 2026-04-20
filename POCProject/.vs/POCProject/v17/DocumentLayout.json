@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.api\\middleware\\requestlogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\middleware\\requestlogmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\services\\azureblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\services\\azureblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CA73C1-612E-4ECE-8038-CB4E97106E32}|POC.Infrastructure\\POC.Infrastructure.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.infrastructure\\backgroungtask\\fileuploadbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CA73C1-612E-4ECE-8038-CB4E97106E32}|POC.Infrastructure\\POC.Infrastructure.csproj|solutionrelative:poc.infrastructure\\backgroungtask\\fileuploadbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92373110-6CAA-43CC-BB1E-E3C5593DB874}|POC.API\\POC.API.csproj|solutionrelative:poc.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\iservices\\iazureblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\iservices\\iazureblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20CA73C1-612E-4ECE-8038-CB4E97106E32}|POC.Infrastructure\\POC.Infrastructure.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.infrastructure\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20CA73C1-612E-4ECE-8038-CB4E97106E32}|POC.Infrastructure\\POC.Infrastructure.csproj|solutionrelative:poc.infrastructure\\implementation\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\dto\\updateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1385B9B5-33D2-4A72-BA74-FB26D33BB4D4}|POC.Domain\\POC.Domain.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.domain\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1385B9B5-33D2-4A72-BA74-FB26D33BB4D4}|POC.Domain\\POC.Domain.csproj|solutionrelative:poc.domain\\irepositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1385B9B5-33D2-4A72-BA74-FB26D33BB4D4}|POC.Domain\\POC.Domain.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.domain\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1385B9B5-33D2-4A72-BA74-FB26D33BB4D4}|POC.Domain\\POC.Domain.csproj|solutionrelative:poc.domain\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|c:\\users\\washim\\desktop\\poc\\pocproject\\poc.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D43D5-21A5-4BEE-B142-8E5168A1066B}|POC.Application\\POC.Application.csproj|solutionrelative:poc.application\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Program.cs",
+              "RelativeDocumentMoniker": "POC.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Program.cs",
+              "RelativeToolTip": "POC.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T06:26:41.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileUploadBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Infrastructure\\BackgroungTask\\FileUploadBackgroundService.cs",
+              "RelativeDocumentMoniker": "POC.Infrastructure\\BackgroungTask\\FileUploadBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Infrastructure\\BackgroungTask\\FileUploadBackgroundService.cs",
+              "RelativeToolTip": "POC.Infrastructure\\BackgroungTask\\FileUploadBackgroundService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T12:15:19.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RequestLogMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Middleware\\RequestLogMiddleware.cs",
+              "RelativeDocumentMoniker": "POC.API\\Middleware\\RequestLogMiddleware.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Middleware\\RequestLogMiddleware.cs",
+              "RelativeToolTip": "POC.API\\Middleware\\RequestLogMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:07:27.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "POC.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "POC.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:08:29.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\DTO\\UpdateProductDto.cs",
+              "RelativeDocumentMoniker": "POC.Application\\DTO\\UpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\DTO\\UpdateProductDto.cs",
+              "RelativeToolTip": "POC.Application\\DTO\\UpdateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:50:15.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "POC.API\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "POC.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwFMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T14:00:39.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "POC.Application\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\IServices\\IProductService.cs",
+              "RelativeToolTip": "POC.Application\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T06:10:19.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AzureBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\Services\\AzureBlobService.cs",
+              "RelativeDocumentMoniker": "POC.Application\\Services\\AzureBlobService.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\Services\\AzureBlobService.cs",
+              "RelativeToolTip": "POC.Application\\Services\\AzureBlobService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAlwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:24:25.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAzureBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\IServices\\IAzureBlobService.cs",
+              "RelativeDocumentMoniker": "POC.Application\\IServices\\IAzureBlobService.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\IServices\\IAzureBlobService.cs",
+              "RelativeToolTip": "POC.Application\\IServices\\IAzureBlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T16:24:04.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\appsettings.json",
+              "RelativeDocumentMoniker": "POC.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.API\\appsettings.json",
+              "RelativeToolTip": "POC.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-19T16:39:11.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\DTO\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "POC.Application\\DTO\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\DTO\\CreateProductDto.cs",
+              "RelativeToolTip": "POC.Application\\DTO\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:49:42.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "POC.Application\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "POC.Application\\Mapping\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:51:22.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Infrastructure\\Implementation\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "POC.Infrastructure\\Implementation\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Infrastructure\\Implementation\\ProductRepository.cs",
+              "RelativeToolTip": "POC.Infrastructure\\Implementation\\ProductRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwEgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:53:41.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductServices.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\Services\\ProductServices.cs",
+              "RelativeDocumentMoniker": "POC.Application\\Services\\ProductServices.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\Services\\ProductServices.cs",
+              "RelativeToolTip": "POC.Application\\Services\\ProductServices.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T11:51:15.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Domain\\IRepositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "POC.Domain\\IRepositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Domain\\IRepositories\\IProductRepository.cs",
+              "RelativeToolTip": "POC.Domain\\IRepositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T05:43:04.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Domain\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "POC.Domain\\Entities\\Products.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Domain\\Entities\\Products.cs",
+              "RelativeToolTip": "POC.Domain\\Entities\\Products.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAApwBYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T06:45:17.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "POC.Application\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Washim\\Desktop\\POC\\POCProject\\POC.Application\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "POC.Application\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T06:45:07.422Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

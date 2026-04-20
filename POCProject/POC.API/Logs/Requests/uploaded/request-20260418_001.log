@@ -1,0 +1,25 @@
+2026-04-18 20:15:51.724 +05:30 [INF] Response Status: 200
+2026-04-18 20:15:57.480 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:45:57.4809762Z" 
+2026-04-18 20:15:57.499 +05:30 [INF] Response Status: 200
+2026-04-18 20:16:00.794 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:46:00.7942132Z" 
+2026-04-18 20:16:00.810 +05:30 [INF] Response Status: 200
+2026-04-18 20:16:03.387 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:46:03.3877072Z" 
+2026-04-18 20:16:03.404 +05:30 [INF] Response Status: 200
+2026-04-18 20:16:23.439 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:46:23.4395453Z" 
+2026-04-18 20:16:23.458 +05:30 [INF] Response Status: 200
+2026-04-18 20:16:26.706 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:46:26.7062904Z" 
+2026-04-18 20:16:26.747 +05:30 [INF] Response Status: 200
+2026-04-18 20:18:20.458 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:48:20.4583110Z" 
+2026-04-18 20:18:20.494 +05:30 [INF] Response Status: 200
+2026-04-18 20:21:06.486 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:51:06.4852024Z" 
+2026-04-18 20:21:11.172 +05:30 [INF] Response Status: 200
+2026-04-18 20:22:00.866 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:52:00.8655173Z" 
+2026-04-18 20:22:05.456 +05:30 [INF] Response Status: 200
+2026-04-18 20:22:30.884 +05:30 [INF] Request OPTIONS /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:52:30.8833727Z" 
+2026-04-18 20:22:30.987 +05:30 [INF] Response Status: 405
+2026-04-18 20:25:11.664 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:55:11.6635380Z" 
+2026-04-18 20:25:21.274 +05:30 [INF] Response Status: 200
+2026-04-18 20:25:25.669 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:55:25.6697170Z" 
+2026-04-18 20:25:25.876 +05:30 [INF] Response Status: 200
+2026-04-18 20:25:30.665 +05:30 [INF] Request POST /api/Product/CreateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-18T14:55:30.6651601Z" 
+2026-04-18 20:25:30.728 +05:30 [INF] Response Status: 200

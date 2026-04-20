@@ -1,0 +1,62 @@
+2026-04-19 21:25:49.816 +05:30 [INF] Request PUT /api/Product/updateProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:55:49.8168064Z" 
+2026-04-19 21:25:49.828 +05:30 [INF] Response Status: 404
+2026-04-19 21:26:20.255 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:56:20.2554906Z" 
+2026-04-19 21:26:20.534 +05:30 [INF] Response Status: 200
+2026-04-19 21:26:23.419 +05:30 [INF] Request GET /api/Product/getProductById/375 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:56:23.4198711Z" 
+2026-04-19 21:26:23.444 +05:30 [INF] Response Status: 200
+2026-04-19 21:26:28.654 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:56:28.6541515Z" 
+2026-04-19 21:26:35.895 +05:30 [INF] Response Status: 200
+2026-04-19 21:26:41.719 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:56:41.7191774Z" 
+2026-04-19 21:26:41.767 +05:30 [INF] Response Status: 200
+2026-04-19 21:26:43.497 +05:30 [INF] Request GET /api/Product/getProductById/375 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:56:43.4975841Z" 
+2026-04-19 21:26:43.519 +05:30 [INF] Response Status: 200
+2026-04-19 21:27:09.140 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:57:09.1405274Z" 
+2026-04-19 21:27:14.411 +05:30 [INF] Response Status: 200
+2026-04-19 21:27:16.724 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:57:16.7248764Z" 
+2026-04-19 21:27:16.785 +05:30 [INF] Response Status: 200
+2026-04-19 21:27:22.254 +05:30 [INF] Request GET /api/Product/getProductById/370 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:57:22.2543297Z" 
+2026-04-19 21:27:22.276 +05:30 [INF] Response Status: 200
+2026-04-19 21:27:38.563 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:57:38.5639014Z" 
+2026-04-19 21:27:39.130 +05:30 [INF] Response Status: 200
+2026-04-19 21:27:41.274 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T15:57:41.2742006Z" 
+2026-04-19 21:27:41.302 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:04.129 +05:30 [INF] Request GET /api/Product/getProductById/375 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:04.1295187Z" 
+2026-04-19 21:37:04.221 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:08.451 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:08.4514682Z" 
+2026-04-19 21:37:08.480 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:11.317 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:11.3176870Z" 
+2026-04-19 21:37:11.349 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:13.341 +05:30 [INF] Request GET /api/Product/getProductById/375 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:13.3417282Z" 
+2026-04-19 21:37:13.361 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:22.696 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:22.6965858Z" 
+2026-04-19 21:37:22.822 +05:30 [INF] Response Status: 400
+2026-04-19 21:37:27.933 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:27.9332184Z" 
+2026-04-19 21:37:27.968 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:31.615 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:31.6156408Z" 
+2026-04-19 21:37:31.647 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:33.385 +05:30 [INF] Request GET /api/Product/getProductById/375 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:33.3859556Z" 
+2026-04-19 21:37:33.410 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:41.898 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:41.8986875Z" 
+2026-04-19 21:37:41.926 +05:30 [INF] Response Status: 200
+2026-04-19 21:37:43.569 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:07:43.5698997Z" 
+2026-04-19 21:37:43.598 +05:30 [INF] Response Status: 200
+2026-04-19 22:19:49.437 +05:30 [INF] Request POST /api/Product/createProduct Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T16:49:49.4359044Z" 
+2026-04-19 22:19:56.060 +05:30 [INF] Response Status: 200
+2026-04-19 22:48:17.335 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:18:17.3343747Z" 
+2026-04-19 22:48:25.061 +05:30 [INF] Response Status: 200
+2026-04-19 22:48:30.684 +05:30 [INF] Request GET /api/Product/getProductById/376 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:18:30.6842626Z" 
+2026-04-19 22:48:31.424 +05:30 [INF] Response Status: 200
+2026-04-19 22:48:41.223 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:18:41.2232884Z" 
+2026-04-19 22:48:42.450 +05:30 [INF] Response Status: 200
+2026-04-19 22:48:43.883 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:18:43.8832110Z" 
+2026-04-19 22:48:43.912 +05:30 [INF] Response Status: 200
+2026-04-19 22:49:11.607 +05:30 [INF] Request DELETE /api/Product/deleteProduct/376 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:19:11.6071318Z" 
+2026-04-19 22:49:11.727 +05:30 [INF] Response Status: 200
+2026-04-19 22:49:11.743 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:19:11.7430471Z" 
+2026-04-19 22:49:11.769 +05:30 [INF] Response Status: 200
+2026-04-19 22:49:17.620 +05:30 [INF] Request GET /api/Product/getProductById/362 Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:19:17.6209923Z" 
+2026-04-19 22:49:17.633 +05:30 [INF] Response Status: 200
+2026-04-19 22:49:24.673 +05:30 [INF] Request PUT /api/Product/updateProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:19:24.6734117Z" 
+2026-04-19 22:49:24.696 +05:30 [INF] Response Status: 200
+2026-04-19 22:49:26.459 +05:30 [INF] Request GET /api/Product/getAllProducts Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpRequestStream:  at "2026-04-19T17:19:26.4596657Z" 
+2026-04-19 22:49:26.480 +05:30 [INF] Response Status: 200
